@@ -1,4 +1,4 @@
 {
-    "testRepo": "semantic-navbar-and-videos-solution",
+    "testRepo": "trivia-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
